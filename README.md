@@ -24,5 +24,3 @@ Here you can see an [example](https://www.google.com/maps/d/u/0/viewer?mid=1ROxx
 | ------ | ------ | ------------------------------- | -------- | ------- |
 | width  | number | Specifies the width of the map  | false    | 640     |
 | height | number | Indicates the height of the map | false    | 480     |
-
-#### Glory to Ukraine!
