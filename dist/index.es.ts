@@ -1,1 +1,1 @@
-import"react/jsx-runtime";
+import{jsx as i,Fragment as e}from"react/jsx-runtime";var t=function(t){var r=t.width,d=void 0===r?640:r,o=t.height;return i(e,{children:i("iframe",{src:"https://www.google.com/maps/d/embed?mid=1ROxxPyw0nPAa5HDAABCBU-IDECabGw3-&ehbc=2E312F",width:d,height:void 0===o?480:o},void 0)},void 0)};export{t as Map,t as default};

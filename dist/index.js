@@ -1,1 +1,1 @@
-"use strict";require("react/jsx-runtime");
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("react/jsx-runtime"),t=function(t){var r=t.width,i=void 0===r?640:r,d=t.height,o=void 0===d?480:d;return e.jsx(e.Fragment,{children:e.jsx("iframe",{src:"https://www.google.com/maps/d/embed?mid=1ROxxPyw0nPAa5HDAABCBU-IDECabGw3-&ehbc=2E312F",width:i,height:o},void 0)},void 0)};exports.Map=t,exports.default=t;
