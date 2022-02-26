@@ -9,6 +9,12 @@
     "type": "git",
     "url": "git+https://github.com/BohdanAlieksieiev/smallcom"
   },
+  "keywords": [
+    "react",
+    "map",
+    "Ukraine",
+    "api"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
