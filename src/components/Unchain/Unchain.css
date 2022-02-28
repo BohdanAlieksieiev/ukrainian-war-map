@@ -1,0 +1,14 @@
+.uncha-link {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 90px;
+  height: 90px;
+  background: url("https://meold.github.io/stopwar/img/stop-war-in-ukraine.png");
+  z-index: 10000;
+  border: 0;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
