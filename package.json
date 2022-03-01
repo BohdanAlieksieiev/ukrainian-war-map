@@ -1,13 +1,13 @@
 {
   "name": "ukrainian-war-map",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This library was created to show the military map of Ukraine",
   "main": "index.js",
   "module": "dist/index.es",
   "typings": "dist/index.es",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BohdanAlieksieiev/smallcom"
+    "url": "https://github.com/BohdanAlieksieiev/ukrainian-war-map"
   },
   "keywords": [
     "react",
